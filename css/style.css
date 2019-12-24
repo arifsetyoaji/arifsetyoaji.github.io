@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+@font-face {
+    font-family: 'CoolveticaRg';
+    src: url(../fonts/coolvetica.regular.ttf), url('../fonts/CoolveticaRg-Regular.woff2') format('woff2'), url('../fonts/CoolveticaRg-Regular.woff') format('woff');
+    font-weight: 10px;
+    font-style: italic;
+}
+
+* {
+    font-family :'Ubuntu', CoolveticaRg, sans-serif;
+  }
